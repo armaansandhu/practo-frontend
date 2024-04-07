@@ -1,0 +1,30 @@
+.Cards_wraper {
+  height: 28vh;
+  width: 12.2vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  padding: 0.2rem 2rem;
+}
+
+.Cards_wraper > img {
+  height: 109px;
+   width: 109px;
+}
+.text{
+    font-weight: 600;
+    text-align: center;
+    height: 4rem;
+}
+
+.btn {
+  font-size: 12px;
+  line-height: 1.25;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+  text-transform: uppercase;
+  background: none;
+  color: #14bef0;
+}

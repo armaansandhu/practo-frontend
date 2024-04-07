@@ -1,0 +1,40 @@
+.container {
+    margin: 2rem 10rem 2rem 10rem;
+    overflow-x: hidden;
+   
+}
+ .searchbar2 {
+    height: 2.4rem;
+    width: 29%;
+    color: rgb(80, 79, 79);
+    font-size: 1rem;
+    padding-left: 2.6rem;
+    margin-left: -0.35rem;
+    
+}
+.inputs{
+    position: relative;
+
+}
+.searchbar{
+    height: 2.4rem;
+    width: 16vw;
+    font-size: 1rem;
+    padding-left: 2rem;
+
+}
+.location {
+   position: absolute;
+   top: 0.6rem;
+   left: 1rem;
+
+  
+}
+.search_icon {
+    position: absolute;
+    top: 0.8rem;
+    margin: 0 1rem;
+   
+
+    
+}

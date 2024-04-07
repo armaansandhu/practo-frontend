@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wraper { 
+    height: 40.8vh;
+    width: 18.2vw;
+    cursor: pointer;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transition: all 0.3s ease-in-out;
+}
+.wraper img {
+    border-radius: 0.4rem;
+    height: 26vh;
+    width: 18.2vw;
+}
+
+.wraper p {
+    font-size: 14px;
+    color: rgb(28, 25, 25);
+    padding-top: 0.5rem;
+    padding-left: 1.5rem;
+}
+.btn {
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 700;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #14bef0;
+    width: 9.1vw;
+    margin-top: -0.2rem;
+    margin-left: 1rem;
+  }
+  .icon {
+    color: #14bef0;
+    position: relative;
+    top: 0.4rem;
+   
+    font-size: 0.6rem;
+    display: inline;
+
+  }
+  

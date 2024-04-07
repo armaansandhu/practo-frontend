@@ -1,0 +1,41 @@
+.wraper {
+  height: 74vh;
+  width: 100vw;
+  background-color: #28328c;
+}
+
+
+.footer_container {
+  height: 53vh;
+  width: 100vw;
+  
+  background-color: #28328c;
+  display: flex;
+  gap: 5rem;
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  padding: 2.6rem 10rem 2.6rem 10rem;
+}
+.footer_items {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-weight: 500;
+}
+.footer_items a {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 420;
+  text-decoration: none;
+}
+.footer_container a:hover {
+  text-decoration: underline;
+}
+.logo_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}

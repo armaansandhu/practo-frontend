@@ -1,0 +1,14 @@
+.container {
+margin: 2rem 10rem 2rem 10rem;
+overflow-x: hidden;
+
+}
+
+
+.scroll_container {
+    margin-top: 2rem;
+    height: 32vh;
+    width: 80vw;
+    display: flex;
+    gap: 1.5rem;
+}
